@@ -28,7 +28,8 @@ The data is stored locally in a designated folder and saved in two formats—CSV
 
 Each run of the script generates:
 
-youtube_channel_stats_YYYYMMDD_HHMMSS.csv
+youtube_channel_stats_YYYYMMDD_HHMMSS.csv or
+
 youtube_channel_stats_YYYYMMDD_HHMMSS.xlsx
 
 ![Metakrist](OutputSS.png)
